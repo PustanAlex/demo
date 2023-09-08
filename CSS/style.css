@@ -3,6 +3,13 @@
     --heading-font-family: "Raleway". sans-serif;
 }
 
+.button {cursor: pointer;
+}
+
+body a {
+    cursor: default;
+}
+
 .global-header {
     background-color: #333333
 }
